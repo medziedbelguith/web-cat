@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Computer asus",
+      "price": "4200",
+      "quantity": "9999",
+      "selected": true,
+      "available": false
+    },
+    {
+      "id": 2,
+      "name": "azerty",
+      "price": "90",
+      "quantity": 0,
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "aaaa",
+      "price": 0,
+      "quantity": 0,
+      "selected": true,
+      "available": true,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "ccccc",
+      "price": 0,
+      "quantity": 0,
+      "selected": true,
+      "available": true
+    }
+  ]
+}
